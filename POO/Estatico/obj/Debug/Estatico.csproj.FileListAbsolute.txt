@@ -1,0 +1,8 @@
+C:\Users\Z0226862\Desktop\c#\consoleapp\Estatico\bin\Debug\Estatico.exe.config
+C:\Users\Z0226862\Desktop\c#\consoleapp\Estatico\bin\Debug\Estatico.exe
+C:\Users\Z0226862\Desktop\c#\consoleapp\Estatico\bin\Debug\Estatico.pdb
+C:\Users\Z0226862\Desktop\c#\consoleapp\Estatico\obj\Debug\Estatico.csproj.AssemblyReference.cache
+C:\Users\Z0226862\Desktop\c#\consoleapp\Estatico\obj\Debug\Estatico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z0226862\Desktop\c#\consoleapp\Estatico\obj\Debug\Estatico.csproj.CoreCompileInputs.cache
+C:\Users\Z0226862\Desktop\c#\consoleapp\Estatico\obj\Debug\Estatico.exe
+C:\Users\Z0226862\Desktop\c#\consoleapp\Estatico\obj\Debug\Estatico.pdb

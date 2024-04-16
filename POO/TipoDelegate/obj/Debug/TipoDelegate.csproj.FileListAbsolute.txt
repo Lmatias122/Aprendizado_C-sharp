@@ -1,0 +1,15 @@
+C:\Users\Z0226862\Desktop\c#\consoleapp\TipoDelegate\bin\Debug\TipoDelegate.exe.config
+C:\Users\Z0226862\Desktop\c#\consoleapp\TipoDelegate\bin\Debug\TipoDelegate.exe
+C:\Users\Z0226862\Desktop\c#\consoleapp\TipoDelegate\bin\Debug\TipoDelegate.pdb
+C:\Users\Z0226862\Desktop\c#\consoleapp\TipoDelegate\obj\Debug\TipoDelegate.csproj.AssemblyReference.cache
+C:\Users\Z0226862\Desktop\c#\consoleapp\TipoDelegate\obj\Debug\TipoDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z0226862\Desktop\c#\consoleapp\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Z0226862\Desktop\c#\consoleapp\TipoDelegate\obj\Debug\TipoDelegate.exe
+C:\Users\Z0226862\Desktop\c#\consoleapp\TipoDelegate\obj\Debug\TipoDelegate.pdb
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\consoleapp\TipoDelegate\bin\Debug\TipoDelegate.exe.config
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\consoleapp\TipoDelegate\bin\Debug\TipoDelegate.exe
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\consoleapp\TipoDelegate\bin\Debug\TipoDelegate.pdb
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\consoleapp\TipoDelegate\obj\Debug\TipoDelegate.csproj.AssemblyReference.cache
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\consoleapp\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\consoleapp\TipoDelegate\obj\Debug\TipoDelegate.exe
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\consoleapp\TipoDelegate\obj\Debug\TipoDelegate.pdb

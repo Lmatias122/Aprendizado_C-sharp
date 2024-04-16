@@ -1,0 +1,10 @@
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\JokenpoGame\JokenpoGame\bin\Debug\JokenpoGame.exe.config
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\JokenpoGame\JokenpoGame\bin\Debug\JokenpoGame.exe
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\JokenpoGame\JokenpoGame\bin\Debug\JokenpoGame.pdb
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.csproj.AssemblyReference.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.Form1.resources
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.Properties.Resources.resources
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.csproj.GenerateResource.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.csproj.CoreCompileInputs.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.exe
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\JokenpoGame\JokenpoGame\obj\Debug\JokenpoGame.pdb

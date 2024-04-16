@@ -1,0 +1,15 @@
+C:\Users\Z0226862\Desktop\teste3\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+C:\Users\Z0226862\Desktop\teste3\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+C:\Users\Z0226862\Desktop\teste3\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+C:\Users\Z0226862\Desktop\teste3\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.AssemblyReference.cache
+C:\Users\Z0226862\Desktop\teste3\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z0226862\Desktop\teste3\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\Users\Z0226862\Desktop\teste3\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+C:\Users\Z0226862\Desktop\teste3\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.AssemblyReference.cache
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+C:\Users\Z0226862\OneDrive - ZF Friedrichshafen AG\Aprendizado Udemy C#\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb

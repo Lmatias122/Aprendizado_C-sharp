@@ -1,0 +1,7 @@
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\threadConsole\bin\Debug\threadConsole.exe.config
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\threadConsole\bin\Debug\threadConsole.exe
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\threadConsole\bin\Debug\threadConsole.pdb
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\threadConsole\obj\Debug\threadConsole.csproj.AssemblyReference.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\threadConsole\obj\Debug\threadConsole.csproj.CoreCompileInputs.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\threadConsole\obj\Debug\threadConsole.exe
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\threadConsole\obj\Debug\threadConsole.pdb

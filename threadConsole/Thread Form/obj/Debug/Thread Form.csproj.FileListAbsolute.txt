@@ -1,0 +1,10 @@
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\Thread Form\bin\Debug\Thread Form.exe.config
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\Thread Form\bin\Debug\Thread Form.exe
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\Thread Form\bin\Debug\Thread Form.pdb
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\Thread Form\obj\Debug\Thread Form.csproj.AssemblyReference.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\Thread Form\obj\Debug\Thread_Form.Form1.resources
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\Thread Form\obj\Debug\Thread_Form.Properties.Resources.resources
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\Thread Form\obj\Debug\Thread Form.csproj.GenerateResource.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\Thread Form\obj\Debug\Thread Form.csproj.CoreCompileInputs.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\Thread Form\obj\Debug\Thread Form.exe
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\threadConsole\Thread Form\obj\Debug\Thread Form.pdb

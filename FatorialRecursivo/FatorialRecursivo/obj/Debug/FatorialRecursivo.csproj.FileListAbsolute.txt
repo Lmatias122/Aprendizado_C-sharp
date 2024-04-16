@@ -1,0 +1,15 @@
+C:\Users\Z0226862\Desktop\teste3\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.exe.config
+C:\Users\Z0226862\Desktop\teste3\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.exe
+C:\Users\Z0226862\Desktop\teste3\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.pdb
+C:\Users\Z0226862\Desktop\teste3\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.csproj.AssemblyReference.cache
+C:\Users\Z0226862\Desktop\teste3\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z0226862\Desktop\teste3\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\Z0226862\Desktop\teste3\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.exe
+C:\Users\Z0226862\Desktop\teste3\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.pdb
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.exe.config
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.exe
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.pdb
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.csproj.AssemblyReference.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.exe
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.pdb

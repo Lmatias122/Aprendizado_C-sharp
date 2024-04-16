@@ -1,0 +1,10 @@
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\Colecoes\Colecoes\bin\Debug\Colecoes.exe.config
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\Colecoes\Colecoes\bin\Debug\Colecoes.exe
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\Colecoes\Colecoes\obj\Debug\Colecoes.Form1.resources
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\Colecoes\Colecoes\obj\Debug\Colecoes.Properties.Resources.resources
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.GenerateResource.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\Colecoes\Colecoes\obj\Debug\Colecoes.exe
+C:\Users\Z0226862\Desktop\Aprendizado Udemy C#\Colecoes\Colecoes\obj\Debug\Colecoes.pdb

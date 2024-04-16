@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z0226862\\OneDrive - ZF Friedrichshafen AG\\Aprendizado Udemy C#\\Calculadora Basica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94FECA89-C2EC-41E7-BB1E-1100CA111AA4}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\Z0226862\\OneDrive - ZF Friedrichshafen AG\\Aprendizado Udemy C#\\Calculadora Basica\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FECA89-C2EC-41E7-BB1E-1100CA111AA4}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FECA89-C2EC-41E7-BB1E-1100CA111AA4}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\z0226862\\onedrive - zf friedrichshafen ag\\aprendizado udemy c#\\calculadora basica\\consoleapp2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FECA89-C2EC-41E7-BB1E-1100CA111AA4}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 492,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Z0226862\\OneDrive - ZF Friedrichshafen AG\\Aprendizado Udemy C#\\Calculadora Basica\\ConsoleApp2\\Calculadora.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Z0226862\\OneDrive - ZF Friedrichshafen AG\\Aprendizado Udemy C#\\Calculadora Basica\\ConsoleApp2\\Calculadora.cs",
+              "RelativeToolTip": "ConsoleApp2\\Calculadora.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwDMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:26:06.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z0226862\\OneDrive - ZF Friedrichshafen AG\\Aprendizado Udemy C#\\Calculadora Basica\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Z0226862\\OneDrive - ZF Friedrichshafen AG\\Aprendizado Udemy C#\\Calculadora Basica\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:26:06.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
